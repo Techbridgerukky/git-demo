@@ -9,3 +9,5 @@ echo "Current Date and Time: $(date)"
 # List files in the current directory
 echo "Files in the current directory:"
 ls
+
+echo "My name is Rukkysk"

@@ -10,4 +10,4 @@ echo "Current Date and Time: $(date)"
 echo "Files in the current directory:"
 ls
 
-echo "my name is rukkysk"
+echo "my name is rukky"
